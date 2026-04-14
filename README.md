@@ -1,5 +1,5 @@
-### PhD Computer Science | R&D Lead & AI Policy Consultant
-**Specializing in Secure, Explainable AI for Telecommunications & Urban Analytics**
+### PhD Computer Science | R&D Specialist & AI Policy Consultant
+**Specializing in Secure, Explainable AI**
 
 ## 🎯 Professional Profile
 Bridging the gap between SOTA academic research and large-scale industrial deployment. 
