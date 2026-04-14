@@ -16,5 +16,5 @@ advisory roles for government policy (ACE), I architect ML systems where
 | **Big Data & Prod** | PySpark, Docker, Kubernetes, CI/CD Pipelines |
 
 ## 📊 Activity & Impact
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbsec&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbsec&layout=compact&theme=radical)
