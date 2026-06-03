@@ -14,4 +14,5 @@ advisory roles for government policy (ACE/ARN), I architect ML systems where
 | **Explainability (XAI)** | SHAP, LIME, Most Py-Based XAI Libraries, Temporal Explainability, Concept Drift,  Causal Inference, Counterfactuals |
 | **Cyber & Telecoms** | 5G Network Analytics, Telecom App Development, Network Analysis, Big Data Analysis |
 | **Big Data & Prod** | PySpark, Docker, CI/CD Pipelines |
+
 Whilst these aspects of my technical ecosystems are the highlights, I have a wide breadth of technical and soft skills that are inter-related to these categories.
