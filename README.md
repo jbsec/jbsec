@@ -10,7 +10,7 @@ advisory roles for government policy (ACE), I architect ML systems where
 ## 🛠 Technical Ecosystem
 | Domain | Technologies |
 | :--- | :--- |
-| **Machine Learning** | PyTorch, TensorFlow, SOTA Time-Series (TFT, Informer), Scikit-Learn |
-| **Explainability (XAI)** | SHAP, Integrated Gradients, Captum, Causal Inference (DoWhy) |
-| **Cyber & Telecoms** | 5G Network Analytics, Network Forensics, DevSecOps, SSDLC |
-| **Big Data & Prod** | PySpark, Docker, Kubernetes, CI/CD Pipelines |
+| **Machine Learning** | PyTorch, TensorFlow, SOTA Time-Series, Scikit-Learn |
+| **Explainability (XAI)** | SHAP, Causal Inference |
+| **Cyber & Telecoms** | 5G Network Analytics |
+| **Big Data & Prod** | PySpark, Docker, CI/CD Pipelines |
