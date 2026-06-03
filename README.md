@@ -1,16 +1,16 @@
-### PhD Computer Science | R&D Specialist & AI Policy Consultant
+### PhD Com Sci | R&D Specialist & AI Policy Consultant
 **Specializing in Secure, Explainable AI**
 
 ## 🎯 Professional Profile
 Bridging the gap between SOTA academic research and large-scale industrial deployment. 
-With over 4 years of R&D experience in 5G security (Ribbon Communications) and 
-advisory roles for government policy (ACE), I architect ML systems where 
+With over 4 years of R&D experience in technical analysis (Ribbon Communications) and 
+advisory roles for government policy (ACE/ARN), I architect ML systems where 
 **Explainability (XAI)** and **Adversarial Robustness** are core requirements.
 
 ## 🛠 Technical Ecosystem
 | Domain | Technologies |
 | :--- | :--- |
-| **Machine Learning** | PyTorch, TensorFlow, SOTA Time-Series, Scikit-Learn |
-| **Explainability (XAI)** | SHAP, Causal Inference |
-| **Cyber & Telecoms** | 5G Network Analytics |
+| **Machine Learning** | PyTorch, TensorFlow, SOTA Time-Series, Scikit-Learn, Neural Networks, Multi-variate Time Series Forecasting, ML App Dev (Python), Juypter Lab & Notebook |
+| **Explainability (XAI)** | SHAP, LIME, Most Py-Based XAI Libraries, Temporal Explainability, Concept Drift,  Causal Inference, Counterfactuals |
+| **Cyber & Telecoms** | 5G Network Analytics, Telecom App Development, Network Analysis, Big Data Analysis |
 | **Big Data & Prod** | PySpark, Docker, CI/CD Pipelines |
