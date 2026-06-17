@@ -1,7 +1,3 @@
-# Dr. James Barrett
-### Data Science Lecturer & R&D Consultant 
-**Bristol, UK**
-
 I bridge the gap between academic research in machine learning and high-integrity industrial deployment. My work focuses on designing and benchmarking machine learning systems where **Explainability (XAI)**, **Temporal Causality**, and **Adversarial Robustness** are core requirements, particularly within telecommunications and network security.
 
 Alongside teaching, I collaborate on R&D telemetry projects for industry partners like Ribbon Communications and provide technical insights for government policy research via the Accelerated Capability Environment (ACE).
