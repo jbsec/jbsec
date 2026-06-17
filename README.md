@@ -1,18 +1,23 @@
-### PhD in Predictive Analytics for Telecoms Networks | R&D & AI Policy Consultant
-**Specializing in Predictive Analytics**
+# Dr. James Barrett
+### Data Science Lecturer & R&D Consultant 
+**Bristol, UK**
 
-## Professional Profile
-Bridging the gap between SOTA (state of-the-art) academic research and large-scale industrial deployment. 
-With over 4 years of R&D experience in technical analysis (Ribbon Communications) and 
-advisory roles for government policy (ACE/ARN), I architect ML systems where 
-**Explainability (XAI)** and **Adversarial Robustness** are core requirements.
+I bridge the gap between academic research in machine learning and high-integrity industrial deployment. My work focuses on designing and benchmarking machine learning systems where **Explainability (XAI)**, **Temporal Causality**, and **Adversarial Robustness** are core requirements, particularly within telecommunications and network security.
 
-## Technical Ecosystem
-| Domain | Technologies |
+Alongside teaching, I collaborate on R&D telemetry projects for industry partners like Ribbon Communications and provide technical insights for government policy research via the Accelerated Capability Environment (ACE).
+
+---
+
+## 🛠️ Technical Focus
+
+| Domain | Core Competencies & Technologies |
 | :--- | :--- |
-| **Machine Learning** | PyTorch, TensorFlow, SOTA Time-Series, Scikit-Learn, Neural Networks, Multi-variate Time Series Forecasting, ML App Dev (Python), Juypter Lab & Notebook |
-| **Explainability (XAI)** | SHAP, LIME, Most Py-Based XAI Libraries, Temporal Explainability, Concept Drift,  Causal Inference, Counterfactuals |
-| **Cyber & Telecoms** | 5G Network Analytics, Telecom App Development, Network Analysis, Big Data Analysis |
-| **Big Data & Prod** | PySpark, Docker, CI/CD Pipelines |
+| **Machine Learning** | PyTorch, Time-Series Forecasting (PatchTST, iTransformer), Sequence Modeling, Scikit-Learn |
+| **Explainability (XAI)** | Temporal XAI, Causal Inference, Feature Attribution (SHAP, LIME), Robustness Testing |
+| **Cyber & Telecoms** | 5G Network Analytics, Packet Forensics (PCAP parsing), Signal Anomaly Detection |
+| **Infrastructure & Dev** | Docker & Docker Compose, FastAPI, Next.js, PySpark, CUDA Optimization |
 
-Whilst these aspects of my technical ecosystems are the highlights, I have a wide breadth of technical and soft skills that are inter-related to these categories.
+---
+
+## 🔬 Current Research & Projects
+* **[Sovereign XAI](https://github.com/jbsec/sovereign-xai):** An offline, air-gapped framework benchmarking 10 state-of-the-art deep learning architectures against low-rate network anomalies using 20 distinct local and causal explainability metrics.
