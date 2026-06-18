@@ -1,19 +1,9 @@
-I bridge the gap between academic research in machine learning and high-integrity industrial deployment. My work focuses on designing and benchmarking machine learning systems where **Explainability (XAI)**, **Temporal Causality**, and **Adversarial Robustness** are core requirements, particularly within telecommunications and network security.
+My research and development focus specalises in machine learning and explainability systems, with a focus on statistical analysis of multivariate time-series data. I work in a capacity to bridge the gap between academic research in ML and industral deployment, with my ongoing roles in consultancy for the ARN research group and former consultancy at Ribbon Communications. My system design specalism reloves around benchmarking ML systems that focus on XAI, temporal-causality (focus of PhD) and adversarial robustness. I also work to intergate language models into my system design, and incorporating latest developments in statstical/data analysis to translate these advances into industral-applications in an interdisciplinary approach. I have experience with application development and security, working with big data, object detection, and data visualisation.
 
-Alongside teaching, I collaborate on R&D telemetry projects for industry partners like Ribbon Communications and provide technical insights for government policy research via the Accelerated Capability Environment (ACE).
+I currently work as a lecturer and part-time researcher in data science for UWE Bristol, also consulting for ARN, and formerly Ribbon Communications. I am currently engaged as a faculty researcher exploring XAI, and advising government policy research, whilst working to engage professionally and contribute applications through open-source repositories here on GH. I have worked on developing IP and patents at Ribbon Communications, and conducted internal and external consulting for specialst XAI/ML. My research contributions can be found on my Scholar profile here: (http://bit.ly/4xDrwaB). I'm currently also attached to an object-detection based project at UWE in early stages of development.
 
----
+I'm interested in contributing to explainability and interpretability-based research, with a focus on SoTA-forecasting models handling multi-variate time series data. I also also interested in language model based applications as middleware to statistical analysis tools. I also am open to cyber and or general data analysis or statistical based research contributions, with a preference to regression-based methods, however I am also open to working with classification/clustering methods also. I have worked with a variety of tools and languages/platforms and systems, with my key strengths towards Python, Linux, and C#-based application development. 
 
-## 🛠️ Technical Focus
+Please feel free to reach out, and or fork/suggest changes to any of my open-source repositories.
 
-| Domain | Core Competencies & Technologies |
-| :--- | :--- |
-| **Machine Learning** | PyTorch, Time-Series Forecasting (PatchTST, iTransformer), Sequence Modeling, Scikit-Learn |
-| **Explainability (XAI)** | Temporal XAI, Causal Inference, Feature Attribution (SHAP, LIME), Robustness Testing |
-| **Cyber & Telecoms** | 5G Network Analytics, Packet Forensics (PCAP parsing), Signal Anomaly Detection |
-| **Infrastructure & Dev** | Docker & Docker Compose, FastAPI, Next.js, PySpark, CUDA Optimization |
-
----
-
-## 🔬 Current Research & Projects
-* **[Sovereign XAI](https://github.com/jbsec/sovereign-xai):** An offline, air-gapped framework benchmarking 10 state-of-the-art deep learning architectures against low-rate network anomalies using 20 distinct local and causal explainability metrics.
+- James
